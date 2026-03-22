@@ -1,30 +1,39 @@
-# Idea del Proyecto
+#Idea del proyecto
 
-Problema:
->Desconocimiento y Desinteres social sobre el cambio climatico y su impacto.
+Problema
 
->Exceso de emisiones de gases de efecto invernadero.
+Actualmente existen varios problemas relacionados con el cambio climático:
 
->Acumulacion de residuos plasticos.
+>Falta de conocimiento y desinterés social sobre el cambio climático y sus consecuencias.
+>Altas emisiones de gases de efecto invernadero.
+>Acumulación de residuos, especialmente plásticos, por una mala gestión de desechos.
 
-Solucion:
->Bot ecologico multifuncion:
+Solución Propuesta:
 
->Mi idea consiste en un chatbot de discord que responda a comandos simples como consejos ecologicos, datos interesantes, calcula la huella de carbono e incorpora modelo de vision por ordenador para clasificar residuos en plastico,
-organico y papel ademas de incorporar comandos de voz a texto y/o texto a voz.
+>Se propone el desarrollo de un bot ecológico multifunción para Discord, cuyo objetivo es concientizar y apoyar a los usuarios en la adopción de hábitos sostenibles.
 
-Tecnologias incorporadas:
->IDE:Visual Studio Code.
+El bot permitirá interactuar mediante comandos simples para:
 
->Lenguaje de programacion: Python.
+>Proporcionar consejos ecológicos.
+>Mostrar datos y curiosidades sobre el medio ambiente.
+>Calcular una estimación básica de la huella de carbono del usuario.
+>Clasificar residuos mediante un modelo de visión por computadora (plástico, orgánico, papel).
+>Integrar funciones de voz a texto y texto a voz para mejorar la interacción.
+Tecnologías Utilizadas
+Entorno de desarrollo: Visual Studio Code
+Lenguaje de programación: Python
+ Librerías:
+>discord.py (creación del bot)
+>pyttsx3 (texto a voz)
+>SpeechRecognition (voz a texto)
+>matplotlib (visualización de datos)
+ Inteligencia Artificial:
+Google Teachable Machine (clasificación de residuos mediante visión por computadora)
+ Plataforma:
+>Servidor de Discord para la implementación y uso del bot
+ 
+ Objetivo del Proyecto:
 
->Librerias: discord, pyttx3, SpeechRecognition, Matplotlib.
-
->Google Techable Machine(vision por ordenador).
-
->Servidor de discord para incorporar el bot.
-
-
-
+>Desarrollar una herramienta tecnológica interactiva que promueva la educación ambiental y facilite la toma de decisiones sostenibles, contribuyendo a los Objetivos de Desarrollo Sostenible (ODS).
 
 
